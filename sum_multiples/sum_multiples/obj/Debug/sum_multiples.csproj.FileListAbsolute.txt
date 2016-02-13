@@ -1,0 +1,6 @@
+C:\Users\Samson\Documents\Workspace\C#\sum_multiples\sum_multiples\bin\Debug\sum_multiples.exe.config
+C:\Users\Samson\Documents\Workspace\C#\sum_multiples\sum_multiples\obj\Debug\sum_multiples.csprojResolveAssemblyReference.cache
+C:\Users\Samson\Documents\Workspace\C#\sum_multiples\sum_multiples\bin\Debug\sum_multiples.exe
+C:\Users\Samson\Documents\Workspace\C#\sum_multiples\sum_multiples\bin\Debug\sum_multiples.pdb
+C:\Users\Samson\Documents\Workspace\C#\sum_multiples\sum_multiples\obj\Debug\sum_multiples.exe
+C:\Users\Samson\Documents\Workspace\C#\sum_multiples\sum_multiples\obj\Debug\sum_multiples.pdb

@@ -1,0 +1,12 @@
+C:\Users\Samson\Documents\Workspace\C#\10001_prime_number\10001_prime_number\bin\Debug\10001_prime_number.exe.config
+C:\Users\Samson\Documents\Workspace\C#\10001_prime_number\10001_prime_number\bin\Debug\10001_prime_number.exe
+C:\Users\Samson\Documents\Workspace\C#\10001_prime_number\10001_prime_number\bin\Debug\10001_prime_number.pdb
+C:\Users\Samson\Documents\Workspace\C#\10001_prime_number\10001_prime_number\obj\Debug\10001_prime_number.csprojResolveAssemblyReference.cache
+C:\Users\Samson\Documents\Workspace\C#\10001_prime_number\10001_prime_number\obj\Debug\10001_prime_number.exe
+C:\Users\Samson\Documents\Workspace\C#\10001_prime_number\10001_prime_number\obj\Debug\10001_prime_number.pdb
+C:\Users\Samson\Documents\Workspace\C#\test\10001_prime_number\10001_prime_number\bin\Debug\10001_prime_number.exe.config
+C:\Users\Samson\Documents\Workspace\C#\test\10001_prime_number\10001_prime_number\obj\Debug\10001_prime_number.exe
+C:\Users\Samson\Documents\Workspace\C#\test\10001_prime_number\10001_prime_number\obj\Debug\10001_prime_number.pdb
+C:\Users\Samson\Documents\Workspace\C#\test\10001_prime_number\10001_prime_number\bin\Debug\10001_prime_number.exe
+C:\Users\Samson\Documents\Workspace\C#\test\10001_prime_number\10001_prime_number\bin\Debug\10001_prime_number.pdb
+C:\Users\Samson\Documents\Workspace\C#\test\10001_prime_number\10001_prime_number\obj\Debug\10001_prime_number.csprojResolveAssemblyReference.cache
